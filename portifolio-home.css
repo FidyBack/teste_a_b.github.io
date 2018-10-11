@@ -1,8 +1,9 @@
 /*--------Especial--------*/
-.continue {
+div.link {
 	text-align: center;
 	font-size: 1.2rem;
 	font-weight: bold;
+	margin: 1rem 0;
 }
 
 /*--------Padrão--------*/
